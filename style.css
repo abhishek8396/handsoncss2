@@ -1,0 +1,94 @@
+body{
+    background: url('./top-view-background-beautiful-white-grey-brown-cream-blue-background_140725-72219.jpg');
+    background-color: white;
+    border: 8px solid green;
+}
+#firstbox{
+    border: 6px solid red;
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 350px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 30px;
+}
+.secondbox{
+    border: 6px solid red;
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 350px;
+    border-radius: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 120px;
+}
+.thirdbox{
+    border: 6px solid red;
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 450px;
+    height: 150px;
+    border-radius: 50px;
+    position: relative;
+    left: 880px;
+    bottom: 200px;
+}
+.forthbox{
+    border: 6px solid grey;
+    background-color: aquamarine;
+    width: 350px;
+    height: 350px;
+    border-radius: 350px;
+    text-align: center;
+    padding-top: 50px;
+}
+.register {
+    border: 6px red;
+    border-style: dashed;
+    width: 350px;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    left: 500px;
+    bottom: 480px;
+}
+.red {
+    color: red;
+}
+.fifthbox {
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 500px;
+    border-radius: 40px;
+    position: relative;
+    left: 500px;
+    bottom: 400px;
+}
+.mainiteam {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.iteamlist {
+    border: 6px solid red;
+    border-radius: 40px;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+    bottom: 300px;
+    color: rgb(66, 78, 245);
+    background-color: rgb(66, 245, 209);
+}
+.iteam2{
+    text-align: center;
+    font-weight: bolder;
+}
+.urgent {
+    position: relative;
+    bottom: 350px;
+}
